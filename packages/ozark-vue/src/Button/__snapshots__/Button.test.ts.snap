@@ -1,0 +1,5 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`button > outline > should render an outline button 1`] = `"<div><button class="border-2 border-gray-300">Hello</button></div>"`;
+
+exports[`button > solid > should render a solid button 1`] = `"<div><button class="border-2 bg-blue-500">Hello</button></div>"`;
